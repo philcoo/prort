@@ -1,0 +1,217 @@
+body {
+	height: 100vh;
+	width: 100%;
+	background-image: url("back.jpg");
+}
+.home {
+	height: 100%;
+	widows: 100%;
+
+
+}
+
+.home h1 {
+
+	margin: center;
+	text-decoration: 800px;
+   color: green;
+
+}
+
+
+
+img {
+
+	border:solid;
+	width: 600px;
+	margin-left: 550px;
+	margin-right: 600px;
+
+
+}
+
+#about_me  {
+ float: left;
+ 	border: solid;
+ 	background: white;
+	margin:0 200px 200px 398px;
+	color:black;
+	font-size: 25px;
+	padding-left: 200px;
+	padding-right: 200px;
+
+}
+.list{
+	color: red;
+	border: solid;
+	text-align: center;
+	background: green;
+	margin-right: 300px;
+	margin-left: 300px;
+
+}
+h3{
+	color: yellow;
+}
+
+.home {
+
+	color: blue;
+	text-align: center;
+	font-size: 50px;
+}
+
+h4 {
+	padding-left: 300px
+	color:yellow;
+	font-size: 50px;
+
+
+}
+
+.wrap{
+
+	float: right;
+	width: 350px;
+	height: 45px;
+	margin-right:100px;
+	margin-left: 600px;
+	margin-top: 850px;
+	margin-bottom: 200px;
+	border:solid red;
+	background: gray;
+	padding-bottom: 550px;
+	color:yellow;
+	font-size: 25px;
+}
+#container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	margin-top: 500px;
+	margin-right: 800px;
+	margin-left: 200px;
+	color: white;
+	font-size: 20px;
+
+
+
+
+	/*background-image: url("back.png");
+	border:solid red;
+	float: left;
+	margin-top: 350px;*/
+}
+.name {
+	color: green;
+	text-shadow: white 5px 2px;
+}
+#wrap{
+	color: green;
+
+
+}
+h2{
+	margin-left: 350px;
+	text-align: center;
+	font-size: 25px;
+	border: solid;
+	background: black;
+}
+
+/*
+	body {
+		background: gray;
+		display:flex;
+		flex-direction: column;
+		margin: 0 0 0 0;
+
+	}
+	#main{
+		display: flex;
+		flex-direction: row;
+		flex-grow: 25;
+
+	}
+
+	header{
+		display:flex;
+		flex-direction: row;
+		background: blue;
+		flex-grow:25;
+		height: 10vh;
+	}
+	section{
+		background: yellow;
+		flex-grow:-1;
+		height: 50vh;
+		margin-top: 10px;
+	}
+	nav{
+
+		flex-grow: 8;
+		height: 50vh;
+
+
+	}
+	nav img{
+		width:800px;
+
+
+	}
+	aside{
+		background: red;
+		flex-grow: 25;
+		height: 80vh;
+	}
+	footer{
+		flex-grow:25;
+		height: 80vh;
+
+
+	}
+	.youtube{
+		background: white;
+		width:100px;
+		height:100px;
+		margin-bottom: 15px;
+	}
+	.menu{
+		background:white;
+		margin-left:px;
+		width:1900px;
+
+	}
+	/*.header{background:yellow;
+		display:flex;
+		flex-direction:row;
+	flex-grow: 50px
+	margin-top:0 0 0 50px;
+	*/
+
+}
+	/*.side{
+		background:blue;
+		display:flex;
+		flex-direction:column;
+	flex-grow: 50px
+	margin-top:0 0 0 50px;
+
+
+	}
+	.otherside{
+		display:flex;
+		flex-direction:column;
+		background:red;
+		flex-grow: 50px
+
+	}
+	footer{
+		display:flex;
+		flex-direction:row;
+		background:red;
+		flex-grow: 50px*/
+	}
+
+	*/
